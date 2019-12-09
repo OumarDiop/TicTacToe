@@ -46,7 +46,6 @@ public class SinglePlayer extends javax.swing.JFrame {
         jPanel1.setPreferredSize(new java.awt.Dimension(150, 150));
         jPanel1.setSize(new java.awt.Dimension(150, 150));
 
-        jbutton1.setStyle("-fx-background-radius: 0");
         jButton1.setText("-");
         jButton1.setMargin(new java.awt.Insets(0, 0, 0, 0));
         jButton1.setPreferredSize(new java.awt.Dimension(50, 50));

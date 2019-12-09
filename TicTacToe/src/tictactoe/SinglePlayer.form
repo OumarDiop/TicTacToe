@@ -115,9 +115,6 @@
               <Dimension value="[50, 50]"/>
             </Property>
           </Properties>
-          <AuxValues>
-            <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="jbutton1.setStyle(&quot;-fx-background-radius: 0&quot;);"/>
-          </AuxValues>
         </Component>
         <Component class="javax.swing.JButton" name="jButton10">
           <Properties>
